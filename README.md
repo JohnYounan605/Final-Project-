@@ -1,6 +1,6 @@
 # Brazilian Olist Store Data Analysis
 
-This project is a data analysis of the Brazilian Olist Store dataset using Power BI. 
+This project is a data analysis of the Brazilian Olist Store dataset using Power BI, Python and SQL. 
 The main goal is to provide insights into sales, customers, sellers, and overall profit.
 
 ## 📊 Dashboard Overview
